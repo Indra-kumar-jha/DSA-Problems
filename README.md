@@ -17,4 +17,8 @@ My practice problems for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
+## Math
+|  |
+| ------- |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->
