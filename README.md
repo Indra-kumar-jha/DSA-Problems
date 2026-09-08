@@ -22,5 +22,6 @@ My practice problems for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
