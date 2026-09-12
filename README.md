@@ -8,6 +8,7 @@ My practice problems for Data Structures &amp; Algorithms
 | ------- |
 | [0001-two-sum](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -24,4 +25,16 @@ My practice problems for Data Structures &amp; Algorithms
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/3875-construct-uniform-parity-array-i) |
+## Binary Search
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Sorting
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
