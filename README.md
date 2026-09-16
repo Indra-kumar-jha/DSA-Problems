@@ -10,6 +10,7 @@ My practice problems for Data Structures &amp; Algorithms
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -17,6 +18,7 @@ My practice problems for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
@@ -42,6 +44,7 @@ My practice problems for Data Structures &amp; Algorithms
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Geometry
 |  |
