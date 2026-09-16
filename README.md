@@ -10,6 +10,7 @@ My practice problems for Data Structures &amp; Algorithms
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
@@ -61,4 +62,8 @@ My practice problems for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
