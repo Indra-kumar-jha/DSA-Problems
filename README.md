@@ -9,6 +9,7 @@ My practice problems for Data Structures &amp; Algorithms
 | [0001-two-sum](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
@@ -40,6 +41,7 @@ My practice problems for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
@@ -55,4 +57,8 @@ My practice problems for Data Structures &amp; Algorithms
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0189-rotate-array) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
