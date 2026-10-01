@@ -8,6 +8,7 @@ My practice problems for Data Structures &amp; Algorithms
 | ------- |
 | [0001-two-sum](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -60,6 +61,7 @@ My practice problems for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0189-rotate-array) |
 | [1089-duplicate-zeros](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/1089-duplicate-zeros) |
 ## Greedy
