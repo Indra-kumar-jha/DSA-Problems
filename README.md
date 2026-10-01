@@ -8,6 +8,7 @@ My practice problems for Data Structures &amp; Algorithms
 | ------- |
 | [0001-two-sum](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0136-single-number) |
@@ -30,6 +31,7 @@ My practice problems for Data Structures &amp; Algorithms
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0189-rotate-array) |
 | [0836-rectangle-overlap](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0836-rectangle-overlap) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -68,4 +70,8 @@ My practice problems for Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0136-single-number) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
