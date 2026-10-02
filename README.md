@@ -16,6 +16,7 @@ My practice problems for Data Structures &amp; Algorithms
 | [0189-rotate-array](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0485-max-consecutive-ones](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [1089-duplicate-zeros](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/1089-duplicate-zeros) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Indra-kumar-jha/DSA-Problems/tree/master/3875-construct-uniform-parity-array-i) |
