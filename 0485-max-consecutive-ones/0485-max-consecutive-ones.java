@@ -8,7 +8,6 @@ class Solution {
             }else if(nums[i]!=1){
                 if(count>count1){
                     count1 = count;
-                    count = 0;
                 }
                 count = 0;
             }
